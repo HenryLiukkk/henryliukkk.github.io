@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- 中国研究生数学建模竞赛全国一等奖（排名：前234/20247）, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- 江苏省优秀毕业生, 2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- 江苏省三好学生, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+-  睿抗机器人开发者大赛（RAICOM）全国二等奖, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- 全国大学生数学建模竞赛全国一等奖（排名：前299/54257）, 2022.
