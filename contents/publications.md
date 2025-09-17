@@ -1,4 +1,4 @@
-- <strong>Hanyu Liu* </strong>, Jiaxin Huang*, ...《RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks》2026 ICRA (在投)
+- <strong>Hanyu Liu*</strong>, Jiaxin Huang*, ...《RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks》2026 ICRA (在投)
 
 - Jiaxin Huang*,<strong> Hanyu Liu*</strong>, ...《Frequency-Enhanced Wavelet-based Transformer in Imitation Learning for Humanoid Robot》2026 ICRA (在投)
 
