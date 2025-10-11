@@ -1,4 +1,4 @@
-- <strong>Hanyu Liu*</strong>, Yunsheng Ma*, et al. "[RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks](https://arxiv.org/pdf/2509.08522v2)" 2025.09 "[Project Website](https://robomatch.github.io/)"
+- <strong>Hanyu Liu*</strong>, Yunsheng Ma*, et al. "[RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks](https://arxiv.org/pdf/2509.08522v2)" 2025.09
 
 - Jiaxin Huang*,<strong> Hanyu Liu*</strong>, et al. "[FEWT: Improving Humanoid Robot Perception with Frequency Enhanced Wavelet-based Transformers](https://arxiv.org/pdf/2509.11109)" 2025.09 "[Project Website](https://humanoid-black-knight.github.io/)"
 
