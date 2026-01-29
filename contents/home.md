@@ -2,7 +2,7 @@
 
 [![HenryLiu](https://img.shields.io/badge/HenryLiu-github-blue?logo=github)](https://github.com/HenryLiukkk)
 
-Hi! I’m Hanyu Liu. I’ve always been driven by a passion for tackling complex, high-stakes challenges. This drive has led me to earn National Prizes in prestigious competitions like CUMCM, RAICOM, and CPIPC. Currently, my research is dedicated to Robotics, Embodied AI, and VLA models—fields that I don't just see as a career, but as a lifelong calling.
+Hi! I’m <strong>Hanyu Liu</strong>. I’ve always been driven by a passion for tackling complex, high-stakes challenges. This drive has led me to earn National Prizes in prestigious competitions like <strong>CUMCM, RAICOM, and CPIPC</strong>. Currently, my research is dedicated to <strong>Robotics, Embodied AI, and VLA models</strong>—fields that I don't just see as a career, but as a lifelong calling.
 
 #### Email
 6240809033[at]stu.jiangnan.edu.cn
