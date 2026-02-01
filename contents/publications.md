@@ -1,1 +1,1 @@
-- <strong>Hanyu Liu*</strong>, Yunsheng Ma*, et al. "[RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks](https://arxiv.org/pdf/2509.08522v2)" 2025.09 [RoboMatch Website](https://robomatch.github.io/)
+- <strong>Hanyu Liu†</strong>, Yunsheng Ma†, et al. "[RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks](https://arxiv.org/pdf/2509.08522v2)" ICRA 2026 (Accepted) [RoboMatch Website](https://robomatch.github.io/)
