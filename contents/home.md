@@ -19,7 +19,6 @@ M.E. in **Robotics**, 2024 — 2027 (Expected)
 
 #### Research Interests
 My research aims to empower robots with human-like intelligence and agility, focusing on:
-* **Embodied AI & World Models:** Scaling generative models for physical world understanding and reasoning.
+* **Teleoperation Platforms:** Exploring **unified and intuitive interfaces** to enable **effortless yet high-precision demonstration**, streamlining the path from human teaching to robotic mastery.
 * **Robot Learning:** Advancing **Imitation Learning** and **Reinforcement Learning** to achieve robust, human-like dexterity.
-* **Vision-Language-Action (VLA) Models:** Developing unified architectures for complex, **long-horizon** robotic tasks.
-
+* **Embodied AI & VLA Models:** Developing unified architectures for complex, **long-horizon** robotic tasks.
