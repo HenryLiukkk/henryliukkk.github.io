@@ -6,7 +6,7 @@ Hi! I’m <strong>Hanyu Liu</strong>. I’ve always been driven by a passion for
 
 #### Contact Information
 [![WeChat](https://img.shields.io/badge/WeChat-Henry%20liu-07C160?style=flat-square&logo=wechat&logoColor=white)](https://github.com/HenryLiukkk/Contact_Information/blob/master/my_wechat.jpg)
-[![RedNote](https://img.shields.io/badge/小红书-Henry%20Liu-FE2C55?style=flat-square&logo=xiaohongshu&logoColor=white)](https://github.com/HenryLiukkk/Contact_Information/blob/master/my_rednote.jpg)
+[![RedNote](https://img.shields.io/badge/RedNote-Henry%20Liu-FE2C55?style=flat-square&logo=xiaohongshu&logoColor=white)](https://github.com/HenryLiukkk/Contact_Information/blob/master/my_rednote.jpg)
 [![Email](https://img.shields.io/badge/Email-6240809033%40stu.jiangnan.edu.cn-blue?style=flat-square&logo=gmail)](mailto:6240809033@stu.jiangnan.edu.cn)
 #### Education
  M.E., Jiangnan University, 2024—2027 (expected).
