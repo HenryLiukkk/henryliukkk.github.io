@@ -6,7 +6,6 @@ Hi! I’m <strong>Hanyu Liu</strong>. I’ve always been driven by a passion for
 
 #### Contact Information
 [![WeChat](https://img.shields.io/badge/-%20?style=flat-square&logo=wechat&logoColor=white&color=07C160)](https://github.com/your-github-link-to-wechat) [![Xiaohongshu](https://img.shields.io/badge/-%20?style=flat-square&logo=xiaohongshu&logoColor=white&color=FE2C55)](https://github.com/your-github-link-to-red)
-
 [![Email](https://img.shields.io/badge/Email-6240809033%40stu.jiangnan.edu.cn-blue?style=flat-square&logo=gmail)](mailto:6240809033@stu.jiangnan.edu.cn)
 
 #### Education
