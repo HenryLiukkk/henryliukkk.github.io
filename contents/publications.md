@@ -1,2 +1,3 @@
 - **Hanyu Liu\***, Yunsheng Ma\*, et al. "**RoboMatch: A Unified Mobile-Manipulation Teleoperation Platform with Auto-Matching Network Architecture for Long-Horizon Tasks**." *ICRA 2026 (Accepted)*. [[Paper]](https://arxiv.org/pdf/2509.08522v2) [[Project Page]](https://robomatch.github.io/) [[Code (Coming Soon)]](https://github.com/...)
 - **Hanyu Liu\***, Qian Li\*, et al. "**NeuroSPS: A Sensorimotor-Inspired Policy for Semantic, Proprioceptive, and Smooth Robotic Manipulation**." *(Under Review)*.
+- **Hanyu Liu\***, Qian Li\*, Qian Li\*, et al. "**REVOLVE: An Automated Closed-Loop Framework for Evolving Robot Manipulation with Minimal Human Intervention**." [[Paper]](https://arxiv.org/abs/2609.14633) [[Project Page]](https://revolve-robotics.github.io/)
